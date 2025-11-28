@@ -1,0 +1,49 @@
+Файлы
+expressions1.txt
+2 + 3 * 4
+(2 + 3) * 4
+10 / (5 - 5)
+2 ^ 3 + 1
+((2 + 3) * (4 - 1)
+15 % 4
+2 ^ 3 ^ 2
+10 / 0
+-5 + 8
+2 * (3 + 4)) - 1
+
+script.txt
+polynomials.txt
+myvar=15;
+bg=25;
+ccc=bg+11;
+print ccc;
+myvar=ccc;
+bg=ccc*myvar;
+print;
+x=100;
+y=x/10;
+z=x%7;
+print x;
+print y;
+print z;
+print;
+
+polynomials.txt
+Add(2x^2-x+2,-x^2+3x-1);
+Mult(x+1,x-1);
+Eval(2);
+Diff();
+
+citizens.txt
+Smith John Michael 15.05.1980 M 2500.50
+Johnson Mary 22.11.1992 W 1800.00
+Williams Robert James 03.03.1975 M 3200.75
+Brown Lisa 18.09.1988 W 2100.25
+Davis David 29.12.1995 M 1900.00
+
+bool_demo.txt
+a & b
+a | b
+a -> b
+~a
+a = b
